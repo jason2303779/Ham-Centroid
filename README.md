@@ -4,8 +4,9 @@ Proposal of a novel pipeline that is composed of both the object detection and s
 1) test videos -- Please download from https://drive.google.com/drive/folders/19A-p_KiBM15DNeJzNMiyfXiIixW3za7Q?usp=sharing
 2) U-Net weight --Please download from https://drive.google.com/drive/folders/1wqB4iM2GovqhvDi-q9Je41Ne8q-gfjvQ
 3) YOLOv3 weight --Please download from https://drive.google.com/drive/folders/1yIl55hw1UAYBHNyrQef8D9UDyx6yMBfS
+4) YOLOv3 pretrain_weight_ori https://drive.google.com/drive/folders/1zt5wEp8qFK9xu9bbcYGAK84XiYpN4OrB
 
-The sample in the test folder is the first item above
+The sample in the test folder is the first item above, Put 4. into yolov3_parameter/model_data/
 
 
 ### YOLOv3 training
