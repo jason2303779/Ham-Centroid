@@ -15,7 +15,7 @@ The sample in the test folder is the first item above
 * Box format: x_min, y_min, x_max, y_max, class_id (no spaces).
 * The picture below is an example
 
-![This is a alt text.](/show_picture/1.png "This is a sample image.")
+![This is a alt text.](/show_picture/1.PNG "This is a sample image.")
 
 * Change the name of the detected object in yolov3_paramete/model_data/rvoc_classes.txt
 * If you want to improve the anchor , you can execute kmeans.py,then yolo_anchors.txt replace in yolov3_parameter/model_data/yolo_anchors.txt
